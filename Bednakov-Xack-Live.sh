@@ -41,3 +41,4 @@ cowsay Bednakov-Xack-Live
 
 cat finish.den
 
+reset
