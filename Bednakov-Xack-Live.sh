@@ -1,8 +1,11 @@
 cat den.txt
+sleep 4
 
 pkg update -y 
 
 cat den.txt
+
+sleep 4
 
 pkg upgrade -y
 
