@@ -2,6 +2,10 @@
 
 Кастомизация termux
 
+pkg i git -y
+
+git clone http://github.com/bednakovdenis/termux-up.git
+
 cd termux-up
 
 chmod +x  Bednakov-Xack-Live.sh
