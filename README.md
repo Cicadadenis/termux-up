@@ -2,15 +2,19 @@
 
 Кастомизация termux
 
-pkg i git -y
+1. Скачать Termux c PlayMarket https://play.google.com/store/apps/details?id=com.termux&hl=ru
 
-git clone http://github.com/bednakovdenis/termux-up.git
+2. Запустить Termux
 
-cd termux-up
+3. pkg i git -y
 
-chmod +x  Bednakov-Xack-Live.sh
+4. git clone http://github.com/bednakovdenis/termux-up.git
 
-./Bednakov-Xack-Live.sh
+5. cd termux-up
+
+6. chmod +x  Bednakov-Xack-Live.sh
+
+7. ./Bednakov-Xack-Live.sh
 
 
 Пользуйся 
