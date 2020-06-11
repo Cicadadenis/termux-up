@@ -6,6 +6,8 @@
 
 2. Запустить Termux
 
+Пишим команды и Enter
+
 3. pkg i git -y
 
 4. git clone http://github.com/bednakovdenis/termux-up.git
