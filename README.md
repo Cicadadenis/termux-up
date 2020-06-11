@@ -17,4 +17,4 @@ chmod +x  Bednakov-Xack-Live.sh
 
 чтобы вызвать меню просто в терминале вбей
 
-toolx
+cicada
