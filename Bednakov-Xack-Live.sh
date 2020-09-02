@@ -38,6 +38,8 @@ cat den.txt
 
 pkg install nano -y 
 
+pip install telethon 
+
 pkg install cowsay -y
 
 cowsay Bednakov-Xack-Live
